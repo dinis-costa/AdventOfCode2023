@@ -11,3 +11,7 @@ day2.PartTwo();
 Day03 day3 = new();
 day3.PartOne();
 day3.PartTwo();
+
+Day04 day4 = new();
+day4.PartOne();
+day4.PartTwo();
