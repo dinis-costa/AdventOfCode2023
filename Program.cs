@@ -16,5 +16,13 @@
 //day4.PartOne();
 //day4.PartTwo();
 
-Day06 day6 = new();
-day6.PartOneAndTwo();
+//Day06 day6 = new();
+//day6.PartOneAndTwo();
+
+//Day07 day7 = new();
+//day7.PartOne();
+//day7.PartTwo();
+
+Day08 day8 = new();
+day8.PartOne();
+day8.PartTwo();
